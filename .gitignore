@@ -1,0 +1,14 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers d’éditeurs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+
+# Fichiers sensibles
+.env
